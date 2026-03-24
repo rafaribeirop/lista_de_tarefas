@@ -1,4 +1,4 @@
-package viii_desafios.lista_de_tarefas;
+package viii_desafios.lista_de_tarefas.lista_de_tarefas;
 
 public class Tarefa {
     //Atributos

@@ -1,4 +1,5 @@
-package viii_desafios.lista_de_tarefas;
+package viii_desafios.lista_de_tarefas.lista_de_tarefas;
+
 import java.util.Scanner;
 public class ToDoList {
     public static void main(String[] args) {

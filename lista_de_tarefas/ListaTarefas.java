@@ -1,4 +1,5 @@
-package viii_desafios.lista_de_tarefas;
+package viii_desafios.lista_de_tarefas.lista_de_tarefas;
+
 import java.util.ArrayList;
 public class ListaTarefas {
 
